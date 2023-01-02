@@ -32,6 +32,10 @@ button{
     font-size: inherit;
     color:inherit;
 }
+button:focus{
+    border:none;
+    outline:none;
+}
 main{
     max-width:90%;
     margin-inline:auto;
