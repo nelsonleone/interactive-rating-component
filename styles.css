@@ -33,7 +33,7 @@ button{
     color:inherit;
 }
 button:focus{
-    border:none;
+    border:none !important;
     outline:none;
 }
 main{
